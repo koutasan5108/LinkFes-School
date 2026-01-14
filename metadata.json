@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LinkFes",
+  "description": "LinkFes: 企画立案から当日の勤怠管理まで、スマホ一台で完結するプロフェッショナル運営管理システム。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
